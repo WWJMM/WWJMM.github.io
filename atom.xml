@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WWJMM</title>
+  
+  <subtitle>天狼星</subtitle>
+  <link href="https://wwjmm.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://wwjmm.github.io/"/>
+  <updated>2021-07-02T11:35:48.324Z</updated>
+  <id>https://wwjmm.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wwjmm.github.io/2021/070216107.html"/>
+    <id>https://wwjmm.github.io/2021/070216107.html</id>
+    <published>2021-07-02T15:58:31.292Z</published>
+    <updated>2021-07-02T11:35:48.324Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wwjmm.github.io/2021/070216107.html"/>
+    <id>https://wwjmm.github.io/2021/070216107.html</id>
+    <published>2021-07-02T15:47:22.791Z</published>
+    <updated>2021-07-02T11:35:48.324Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wwjmm.github.io/2021/070216107.html"/>
+    <id>https://wwjmm.github.io/2021/070216107.html</id>
+    <published>2021-07-02T08:19:44.614Z</published>
+    <updated>2021-07-02T11:35:48.324Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
