@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JMM的BLOG</title>
   <icon>https://wwjmm.github.io/icon.png</icon>
-  <subtitle>天狼星</subtitle>
+  
   <link href="https://wwjmm.github.io/atom.xml" rel="self"/>
   
   <link href="https://wwjmm.github.io/"/>
