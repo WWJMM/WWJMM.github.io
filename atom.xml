@@ -1,39 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>WWJMM</title>
-  
+  <title>JMM的BLOG</title>
+  <icon>https://wwjmm.github.io/icon.png</icon>
   <subtitle>天狼星</subtitle>
   <link href="https://wwjmm.github.io/atom.xml" rel="self"/>
   
   <link href="https://wwjmm.github.io/"/>
-  <updated>2021-07-02T11:35:48.324Z</updated>
+  <updated>2021-07-03T07:54:49.516Z</updated>
   <id>https://wwjmm.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>JMM</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>JMM终于有了自己的BLOG</title>
     <link href="https://wwjmm.github.io/2021/070216107.html"/>
     <id>https://wwjmm.github.io/2021/070216107.html</id>
     <published>2021-07-02T08:19:44.614Z</published>
-    <updated>2021-07-02T11:35:48.324Z</updated>
+    <updated>2021-07-03T07:54:49.516Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h1 id=&quot;介绍&quot;&gt;介绍&lt;a class=&quot;post-anchor&quot;</summary>
         
       
     
     
     
+    <category term="日常" scheme="https://wwjmm.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="爱国" scheme="https://wwjmm.github.io/tags/%E7%88%B1%E5%9B%BD/"/>
+    
+    <category term="民主" scheme="https://wwjmm.github.io/tags/%E6%B0%91%E4%B8%BB/"/>
     
   </entry>
   
